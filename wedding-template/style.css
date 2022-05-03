@@ -59,7 +59,7 @@ a.active {
 }
 
 a {
-    color: #f8d56f;
+    color: black;
 }
 
 a:hover,
@@ -143,14 +143,13 @@ fieldset[disabled] .btn-primary.active {
 
 .btn-xl {
     padding: 20px 40px;
-    border-color: #f8d56f;
     border-radius: 3px;
     text-transform: uppercase;
     font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 18px;
     font-weight: 700;
     color: #fff;
-    background-color: #f8d56f;
+    background-color: black;
 }
 
 .btn-xl:hover,
@@ -269,8 +268,8 @@ fieldset[disabled] .btn-m.active {
 }
 
 .navbar-default .navbar-toggle {
-    border-color: #f8d56f;
-    background-color: #f8d56f;
+   
+    background-color: black;
 }
 
 .navbar-default .navbar-toggle .icon-bar {
@@ -315,7 +314,7 @@ fieldset[disabled] .btn-m.active {
 .brand {
     /*font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;*/
     font-family: "stay_classy_sldtregular","Helvetica Neue",Helvetica,Arial,cursive;
-    color: #f8d56f;
+    color: white;
     font-size: 2.5em;
 }
 
@@ -986,7 +985,7 @@ ul.social-buttons li a:active {
 
 ::selection {
     text-shadow: none;
-    background: #f8d56f;
+    background: black;
 }
 
 img::selection {
